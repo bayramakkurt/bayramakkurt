@@ -17,7 +17,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 [instagram]: https://www.instagram.com/_bayram_akkurt_/
-[linkedin]: https://www.linkedin.com/in/h-bayram-akkurt-49103b252/
+[linkedin]: https://www.linkedin.com/in/h-bayram-akkurt/
 [gmail]: mailto:bayramakkurt350@icloud.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/

@@ -27,12 +27,6 @@
 -
 -
 -
-
-
-
-
-
-
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -137,7 +131,7 @@
 
 <div align="center">
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp-1&theme=radical&hide_border=true)](https://github.com/bayramakkurt/talentmatch-nlp)
 
 </div>
 ---

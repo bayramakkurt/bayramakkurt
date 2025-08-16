@@ -18,15 +18,12 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🔭 **Şu anda üzerinde çalışıyorum:** Yapay zeka uygulamarı ve API geliştirme  
+🔭 **Şu anda üzerinde çalışıyorum:** Yapay zeka uygulamaları ve API geliştirme  
 🌱 **Öğrenmeye devam ediyorum:** Cloud Computing ve Machine Learning  
 👯 **İş birliğine açığım:** Open source projelerde  
--
--
--
--
--
--
+
+<br clear="right"/>
+
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -134,6 +131,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp&theme=radical&hide_border=true" />
 </a>
 </div>
+
 ---
 
 ## 🐍 Katkı Snake Animasyonu

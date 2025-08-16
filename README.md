@@ -22,6 +22,12 @@
 🌱 **Öğrenmeye devam ediyorum:** Cloud Computing ve Machine Learning  
 👯 **İş birliğine açığım:** Open source projelerde  
 
+
+
+
+
+
+
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -126,7 +132,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=TalentMatch-NLP-1&theme=radical&hide_border=true)](https://github.com/bayramakkurt/TalentMatch-NLP)
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=TalentMatch-NLP-1&theme=radical&hide_border=true)](https://github.com/bayramakkurt/TalentMatch-NLP)](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=TalentMatch-NLP&theme=radical&hide_border=true&show_owner=true)
 
 </div>
 ---
@@ -134,13 +140,11 @@
 ## 🐍 Snake Animasyon Kurulumu
 
 <div align="center">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayramakkurt/bayramakkurt/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayramakkurt/bayramakkurt/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bayramakkurt/bayramakkurt/output/github-contribution-grid-snake.svg">
   </picture>
-  
 </div>
 
 ---

@@ -21,7 +21,12 @@
 🔭 **Şu anda üzerinde çalışıyorum:** Yapay zeka uygulamarı ve API geliştirme  
 🌱 **Öğrenmeye devam ediyorum:** Cloud Computing ve Machine Learning  
 👯 **İş birliğine açığım:** Open source projelerde  
-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -132,7 +137,7 @@
 
 <div align="center">
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=TalentMatch-NLP-1&theme=radical&hide_border=true)](https://github.com/bayramakkurt/TalentMatch-NLP)](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=TalentMatch-NLP&theme=radical&hide_border=true&show_owner=true)
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp)
 
 </div>
 ---

@@ -26,24 +26,6 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bayramakkurt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayramakkurt&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramakkurt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-</div>
-
----
-
 ## 🛠️ Teknolojiler ve Araçlar
 
 <div align="center">

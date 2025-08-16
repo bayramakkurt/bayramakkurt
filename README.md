@@ -130,13 +130,13 @@
 ## 🔥 Öne Çıkan Projeler
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp-1&theme=radical&hide_border=true)](https://github.com/bayramakkurt/talentmatch-nlp)
-
+<a href="https://github.com/bayramakkurt/talentmatch-nlp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayramakkurt&repo=talentmatch-nlp&theme=radical&hide_border=true" />
+</a>
 </div>
 ---
 
-## 🐍 Snake Animasyon Kurulumu
+## 🐍 Katkı Snake Animasyonu
 
 <div align="center">
   <picture>

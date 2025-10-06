@@ -1,7 +1,7 @@
 # 👋 Merhaba! Ben Hacı Bayram
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Code+%26+Coffee+Lover+%E2%98%95;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Code+%26+Coffee+Lover+%E2%98%95;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,9 +32,6 @@
 
 <table>
 <tr>
-<td align="center" width="300">
-
-</td>
 <td align="center" width="300">
 
 ### 🔧 Backend
